@@ -1,0 +1,13 @@
+
+
+$
+level 0:*sofware-enginering*
+level 1:*sofware-enginering*->( *programming*, *Apps* )
+level 2:*programming*->( *languages*, *tools* ), *Apps*->( *socialmedia*, *OS*, *desing*, *finances*)
+level 3:*languages*->(*c++*, *c#*, *java*, *ruby*, *C#*, *javascript*, *python*, *sql*, *php*, *xhtml*, *xml*, *css*, *css3*, *python*, *actvescript*), *tools*->( *framework*, *library* ), *socialmedia*->(*Facebook*, *Twitter*, *tweecious*, *MySpace*, *LinkedIn*, *Flickr*, *Friendster*, *FriendFeed*, *Bebo*), *OS*->(*windows*, *ios*, *android*, *linux*), *desing*->( *photoshop* ), *finances*->( *excel*)
+level 4:*framework*->( *ajax*, *ironruby*, *rubyonrails*, *wordpress* ), *library*->( *jquery* ), *linux*->( *ubuntu*, *fedora* )
+
+
+
+
+
